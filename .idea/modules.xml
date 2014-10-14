@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AgendaWatchfaceBatteryPlugin.iml" filepath="$PROJECT_DIR$/AgendaWatchfaceBatteryPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agendawatchfacePluginAPI/agendawatchfacePluginAPI.iml" filepath="$PROJECT_DIR$/agendawatchfacePluginAPI/agendawatchfacePluginAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
