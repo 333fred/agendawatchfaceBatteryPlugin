@@ -1,0 +1,3 @@
+[submodule "agendawatchfacePluginAPI"]
+	path = agendawatchfacePluginAPI
+	url = https://github.com/JanBobolz/agendawatchfacePluginAPI.git
